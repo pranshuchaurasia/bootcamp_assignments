@@ -2,18 +2,6 @@
 
 This repository contains a collection of assignments and projects from the iNeuron Full Stack Data Science Bootcamp, showcasing a range of topics from Python basics to advanced data science techniques.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 The repository serves as a resource for students and educators involved in the iNeuron Full Stack Data Science Bootcamp, providing practical and theoretical assignments across various modules of the course.
